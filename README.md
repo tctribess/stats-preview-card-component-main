@@ -15,5 +15,7 @@ Tecnologias usadas:
 * HTML
 * CSS
 
-## Preview page
-<img src="#" height=" 250px"></img> 
+## Preview page Web
+<img src="images/preview-page-web.PNG" height=" 250px"></img> 
+## Preview page Mobile
+<img src="images/preview-page-mobile.PNG" height=" 250px"></img>
